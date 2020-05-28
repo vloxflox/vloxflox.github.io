@@ -1,0 +1,32 @@
+.rankBox{
+ display: block;
+ border-style: solid;
+ height: 50px;
+ width: 200px;
+ margin: 35px;
+ text-align: center;
+ padding: auto;
+ box-sizing: border-box;
+}
+
+#parent1{
+ top:10;
+}
+
+#parent2{
+ top:210;
+}
+
+#chave{
+ height: 100px;
+ width: 150px;
+ top: 55px;
+ left: 243px;
+ position: absolute;
+}
+
+#child{
+  top: 45px;
+  left: 358px;
+  position: absolute;
+}
