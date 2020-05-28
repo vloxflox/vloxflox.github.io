@@ -11,6 +11,8 @@ function updateChild(){
   }else{
    document.getElementById("child").innerHTML = document.getElementById("parent2").innerHTML;
   }
+ }else{
+  document.getElementById("child").innerHTML = "????"
  }
 }
 
